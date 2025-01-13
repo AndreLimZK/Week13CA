@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const APIKEY = "d809449e2adb6884fb5b6a44123aeb9455ffb"; // Replace with your RESTDb API key
+  const APIKEY = "4bc783331ecd8d3bb0fa18fa2c06946d0b79a"; // Replace with your RESTDb API key
 
   // Load students on page load
   getStudents();
